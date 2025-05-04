@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Achraf/Desktop/Learning/MLOps/mlflowTest/mlruns/0/3354bc1a13894f38b988cd6f8e123a9b/artifacts
+end_time: 1746355374835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3354bc1a13894f38b988cd6f8e123a9b
+run_name: calm-worm-242
+run_uuid: 3354bc1a13894f38b988cd6f8e123a9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746355370417
+status: 3
+tags: []
+user_id: Achraf

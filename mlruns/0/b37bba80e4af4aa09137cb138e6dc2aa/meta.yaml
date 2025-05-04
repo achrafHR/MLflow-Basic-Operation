@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Achraf/Desktop/Learning/MLOps/mlflowTest/mlruns/0/b37bba80e4af4aa09137cb138e6dc2aa/artifacts
+end_time: 1746354227195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b37bba80e4af4aa09137cb138e6dc2aa
+run_name: gaudy-chimp-660
+run_uuid: b37bba80e4af4aa09137cb138e6dc2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746354220633
+status: 3
+tags: []
+user_id: Achraf

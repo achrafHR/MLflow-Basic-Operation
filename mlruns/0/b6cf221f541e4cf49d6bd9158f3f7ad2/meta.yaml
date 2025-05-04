@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Achraf/Desktop/Learning/MLOps/mlflowTest/mlruns/0/b6cf221f541e4cf49d6bd9158f3f7ad2/artifacts
+end_time: 1746354707525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6cf221f541e4cf49d6bd9158f3f7ad2
+run_name: dapper-conch-960
+run_uuid: b6cf221f541e4cf49d6bd9158f3f7ad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746354702831
+status: 3
+tags: []
+user_id: Achraf
